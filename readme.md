@@ -7,5 +7,5 @@
 Boat4Rent steps into the rental market of boats. An easy to use platform to rent out or rent a boat. Sail away!
 
 
-- **[Boat4Rent Live demo](boat4rent.vo2c.nl)**
-- **[Boat4Rent Trelloboard](https://tighten.co)**
+- **[Boat4Rent Live demo SOON ONLINE](boat4rent.vo2c.nl)**
+- **[Boat4Rent Trelloboard](https://trello.com/b/xqjS7qHp/boat4rent)**
